@@ -1,0 +1,7 @@
+{
+    "settings": {},
+    "selector": "source.racket",
+    "command": [
+        "/home/nikhil/racket-8.9/bin/racket", "-l", "racket-langserver"
+    ],
+}
